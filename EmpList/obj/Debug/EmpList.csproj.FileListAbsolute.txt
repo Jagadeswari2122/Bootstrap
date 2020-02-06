@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\EmpList\obj\Debug\EmpList.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EmpList\bin\Debug\EmpList.exe.config
+C:\Users\Dell\source\repos\EmpList\bin\Debug\EmpList.exe
+C:\Users\Dell\source\repos\EmpList\bin\Debug\EmpList.pdb
+C:\Users\Dell\source\repos\EmpList\obj\Debug\EmpList.exe
+C:\Users\Dell\source\repos\EmpList\obj\Debug\EmpList.pdb
